@@ -1,0 +1,25 @@
+{
+  "name": "price-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TARUN-B-S/Price-Viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TARUN-B-S/Price-Viewer/issues"
+  },
+  "homepage": "https://github.com/TARUN-B-S/Price-Viewer#readme",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-resizable-panels": "^4.7.3"
+  }
+}
